@@ -69,7 +69,25 @@ const danielwifred = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielwifred&repo=hermes-mini-app&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9)](https://github.com/danielwifred/hermes-mini-app)
+<!-- Hermes Mini App -->
+<a href="https://github.com/danielwifred/hermes-mini-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielwifred&repo=hermes-mini-app&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9" />
+</a>
+
+<!-- AI Agent Toolkit -->
+<a href="https://github.com/danielwifred/ai-agent-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielwifred&repo=ai-agent-toolkit&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9" />
+</a>
+
+<!-- AMD MI300X Toolkit -->
+<a href="https://github.com/danielwifred/amd-mi300x-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielwifred&repo=amd-mi300x-toolkit&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9" />
+</a>
+
+<!-- Connex -->
+<a href="https://github.com/danielwifred/connex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielwifred&repo=connex&theme=radical&bg_color=0d1117&hide_border=true&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9" />
+</a>
 
 </div>
 
