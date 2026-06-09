@@ -12,14 +12,24 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const danielwifred = {
-    location: "Yogyakarta, Indonesia 🇮🇩",
-    currentFocus: ["AI Agents", "Telegram Bots", "Web3", "Trading Bots"],
-    techStack: ["Python", "JavaScript", "Node.js", "HTML/CSS"],
-    currentlyLearning: "Blockchain & Smart Contracts",
-    motto: "Build fast. Ship faster. 🚀"
-};
+```
+⚡ I turn caffeine into code and ideas into products.
+🤖 Building AI agents that think, trade, and execute.
+🔗 Bridging Web2 and Web3, one commit at a time.
+🎯 10x mindset. Ship fast. Break nothing.
+```
+
+```python
+class DanielWifred:
+    def __init__(self):
+        self.location    = "Yogyakarta, Indonesia 🇮🇩"
+        self.role        = "Full Stack Developer & AI Builder"
+        self.languages   = ["Python", "JavaScript", "Solidity"]
+        self.interests   = ["AI Agents", "DeFi", "Trading Bots", "Automation"]
+        self.motto       = "If it can be automated, I'll automate it."
+    
+    def current_mission(self):
+        return "Building autonomous AI systems that work 24/7 🚀"
 ```
 
 ---
